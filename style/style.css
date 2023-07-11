@@ -172,7 +172,7 @@
     padding: 10px;
     background: rgba(229, 84, 115, 0.05);
     margin: 20px;
-   
+
 }
 
 .about-title {
@@ -191,7 +191,7 @@
 }
 
 .about-info {
-     
+
     box-shadow: 4px 4px 15px gray;
     border-radius: 10px;
     margin: 10px 20px;
@@ -204,7 +204,8 @@
     padding: 10px;
 
 }
-.btn-about{
+
+.btn-about {
     border-radius: 8px;
     background: #E55473;
     color: #FFF;
