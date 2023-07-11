@@ -51,6 +51,7 @@
 
 .main-container {
     width: auto;
+    height: auto;
     margin: 0 auto;
     background: #FFF;
 }
@@ -158,6 +159,63 @@
     font-size: 24px;
 
 }
+
+/* about section */
+.about-container {
+
+    width: auto;
+    height: 620px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 10px;
+    background: rgba(229, 84, 115, 0.05);
+    margin: 20px;
+   
+}
+
+.about-title {
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 10px;
+}
+
+.banner-img {
+    width: 500px;
+    height: 500px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.about-info {
+     
+    box-shadow: 4px 4px 15px gray;
+    border-radius: 10px;
+    margin: 10px 20px;
+
+}
+
+.about-discription {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 24px;
+    padding: 10px;
+
+}
+.btn-about{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    padding: 15px;
+    border: none;
+    margin: 10px;
+    text-align: center;
+
+}
+
 
 /* <!-- start discount section css code start --> */
 .discount-container {
